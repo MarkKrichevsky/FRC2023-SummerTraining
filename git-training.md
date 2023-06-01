@@ -16,7 +16,7 @@ Hint:
 # Git-It Completion List
 Mark Krichevsky - I don't understand coding 
 
-Num Approved: 0
+Num Approved: 1
 * Mark Krichevsky
 * Mavis Tsoi
 
