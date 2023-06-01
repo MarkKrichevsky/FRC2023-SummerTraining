@@ -14,7 +14,7 @@ Hint:
 * Check the commit history to see examples of steps 3 and 4.
 
 # Git-It Completion List
-Mark Krichevsky - Coding makes no sense 
+Mark Krichevsky - I don't understand coding 
 
 Num Approved: 0
 
